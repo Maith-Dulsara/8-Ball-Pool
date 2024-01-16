@@ -1,4 +1,4 @@
-#IMPLEMENTED RULES OF POOL
+# IMPLEMENTED RULES OF POOL
 
 • Instead of balls of multiple colors, this game is played with only two colors, namely, Yellow 
 and Orange (as in English Pool). 
@@ -20,7 +20,7 @@ left mouse button is allowed.
 will win.
 
 
-#HOW TO PLAY
+# HOW TO PLAY
 
 • Game starts with the breaking of the triangle with the cue ball and ends with the sinking of 
 the 8-ball (Grey colored ball). 
@@ -42,7 +42,7 @@ colored ball.
 • If required, the Player can cancel the shot by clicking left mouse button. 
 
 • The Player can move the cue ball by clicking left mouse button on the ball and dragging it 
-down. A player should move the cue ball in this way, ONLY if the other player sinks the cue 
+down. A player should move the cue ball in this way, **ONLY** if the other player sinks the cue 
 ball during their turn.
 
 • To score points, the players should sink the colored balls.
@@ -56,3 +56,8 @@ in the next turn.
 
 • The first player who sinks all the colored balls and the 8-ball wins the game. By any chance 
 if a player sink the 8-ball before the other balls other player wins the match.
+
+
+
+
+
